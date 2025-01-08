@@ -17,13 +17,13 @@ let numberUniqueId = Number(uniqueId)
 console.log(stringUsername)
 console.log(stringEmail)
 console.log(stringCellNumber)
-console.log(booleanSubscribe);
-console.log(numberUniqueId);
+console.log(booleanSubscribe)
+console.log(numberUniqueId)
 console.log(typeof stringUsername)
 console.log(typeof stringEmail)
 console.log(typeof stringCellNumber)
-console.log(typeof booleanSubscribe);
-console.log(typeof numberUniqueId); 
+console.log(typeof booleanSubscribe)
+console.log(typeof numberUniqueId)
 
 //some inverstigations
 
